@@ -1,0 +1,2 @@
+/Users/jimvincent/Desktop/CS3241/Lab/Lab1_todo/build/CMakeFiles/Lab1.dir
+/Users/jimvincent/Desktop/CS3241/Lab/Lab1_todo/build/CMakeFiles/ALL_BUILD.dir
